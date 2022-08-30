@@ -20,9 +20,7 @@
 
 ### 1. 프로젝트 다운로드
 ChattingRoom.exe 실행
->- Photon 서버 ID , 클라이언트 ID 입력 후 접속 
-
-<br>
+>- Photon 서버 ID , 클라이언트 ID 입력 후 접속  <br>
 <img src="img/설명1.png" alt="drawing" width="300"/>
 <img src="img/설명4.png" alt="drawing" width="300"/>
 <br>
@@ -31,7 +29,7 @@ ChattingRoom.exe 실행
 >- 회원 가입 후, 관리화면에서 서버 ID 생성 가능
 
 <br>
-<img src="img/설명2.png" alt="drawing" width="300"/><img src="img/설명3.png" alt="drawing" width="300"/>
+<img src="img/설명2.png" alt="drawing" width="400"/><img src="img/설명3.png" alt="drawing" width="400"/>
 <br>
 
 ### 2. 로비 접속 및 방 생성 
