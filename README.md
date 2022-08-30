@@ -31,8 +31,7 @@ ChattingRoom.exe 실행
 >- 회원 가입 후, 관리화면에서 서버 ID 생성 가능
 
 <br>
-<img src="img/설명2.png" alt="drawing" width="350"/>
-<img src="img/설명3.png" alt="drawing" width="350"/>
+<img src="img/설명2.png" alt="drawing" width="300"/><img src="img/설명3.png" alt="drawing" width="300"/>
 <br>
 
 ### 2. 로비 접속 및 방 생성 
