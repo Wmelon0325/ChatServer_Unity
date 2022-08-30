@@ -23,8 +23,8 @@ ChattingRoom.exe 실행
 >- Photon 서버 ID , 클라이언트 ID 입력 후 접속 
 
 <br>
-<img src="img/설명1.png" alt="drawing" width="350"/>
-<img src="img/설명4.png" alt="drawing" width="350"/>
+<img src="img/설명1.png" alt="drawing" width="300"/>
+<img src="img/설명4.png" alt="drawing" width="300"/>
 <br>
 
 [Photon 회원 가입 및 서버 ID 생성](https://www.photonengine.com/ko-KR/Photon)
